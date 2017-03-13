@@ -1,0 +1,15 @@
+jdbcUrl = jdbc:mysql://localhost:3306/bfwx?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull
+user = root
+password =root
+devMode = true
+
+weixinToken=bfwx
+appid=wx0f31a887f714ab73
+appsecret=be4217f2a694c5331e5753533e3e6fe6
+yykey=gh_daa7045b42bb
+
+apiKey=OTYdvIEWdoa1c7PywFmMpSbvXUcW8XMq
+mch_id=1361537702
+CERT_PATH=C:\\apiclient_cert.p12
+pay_name=闪蝠众包
+

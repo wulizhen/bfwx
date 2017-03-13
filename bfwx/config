@@ -1,0 +1,15 @@
+[core]
+	bare = true
+	repositoryformatversion = 0
+	filemode = false
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/STPSUN/bfweixin
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	pushurl = https://github.com/STPSUN/bfweixin
+[remote "bfwx"]
+	url = https://github.com/STPSUN/bfweixin
+	fetch = +refs/heads/*:refs/remotes/bfwx/*
+	tagopt = --no-tags
+	pushurl = https://github.com/STPSUN/bfweixin

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/bfwx/!svn/ver/2/trunk/hooks
+END
+post-update.sample
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/bfwx/!svn/ver/2/trunk/hooks/post-update.sample
+END
+pre-push.sample
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bfwx/!svn/ver/2/trunk/hooks/pre-push.sample
+END
+pre-applypatch.sample
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/bfwx/!svn/ver/2/trunk/hooks/pre-applypatch.sample
+END
+prepare-commit-msg.sample
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bfwx/!svn/ver/2/trunk/hooks/prepare-commit-msg.sample
+END
+pre-commit.sample
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bfwx/!svn/ver/2/trunk/hooks/pre-commit.sample
+END
+pre-rebase.sample
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bfwx/!svn/ver/2/trunk/hooks/pre-rebase.sample
+END
+applypatch-msg.sample
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/bfwx/!svn/ver/2/trunk/hooks/applypatch-msg.sample
+END
+commit-msg.sample
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bfwx/!svn/ver/2/trunk/hooks/commit-msg.sample
+END
+update.sample
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/bfwx/!svn/ver/2/trunk/hooks/update.sample
+END

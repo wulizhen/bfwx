@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/bfwx/!svn/ver/2/trunk
+END
+HEAD
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/bfwx/!svn/ver/2/trunk/HEAD
+END
+config
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/bfwx/!svn/ver/2/trunk/config
+END
+zhuli.log
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/bfwx/!svn/ver/2/trunk/zhuli.log
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/bfwx/!svn/ver/2/trunk/.project
+END
+description
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/bfwx/!svn/ver/2/trunk/description
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/bfwx/!svn/ver/2/trunk/.classpath
+END

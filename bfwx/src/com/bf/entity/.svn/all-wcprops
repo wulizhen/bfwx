@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/entity
+END
+VideoMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/entity/VideoMessage.java
+END
+ImageMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/entity/ImageMessage.java
+END
+MyX509TrustManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/entity/MyX509TrustManager.java
+END
+Music.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/entity/Music.java
+END
+AmplificationImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/entity/AmplificationImage.java
+END
+ComplexButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/entity/ComplexButton.java
+END
+MusicMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/entity/MusicMessage.java
+END
+Menu.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/entity/Menu.java
+END
+CommonButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/entity/CommonButton.java
+END
+WeixinOauth2Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/entity/WeixinOauth2Token.java
+END
+Video.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/entity/Video.java
+END
+WeixinUserInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/entity/WeixinUserInfo.java
+END
+Image.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/entity/Image.java
+END
+Template.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/entity/Template.java
+END
+TextMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/entity/TextMessage.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/entity/Token.java
+END
+ViewButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/entity/ViewButton.java
+END
+BaseMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/entity/BaseMessage.java
+END
+Article.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/entity/Article.java
+END
+VoiceMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/entity/VoiceMessage.java
+END
+NewsMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/entity/NewsMessage.java
+END
+TemplateParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/entity/TemplateParam.java
+END
+Voice.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/entity/Voice.java
+END
+Button.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/entity/Button.java
+END

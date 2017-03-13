@@ -1,0 +1,50 @@
+10
+
+dir
+5
+https://172.16.4.72/svn/bfwx/trunk/WebRoot/jsp/assets
+https://172.16.4.72/svn/bfwx
+
+
+
+2017-03-13T09:16:03.244085Z
+5
+scs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1b15653b-6ba0-ce4f-b4c2-2238e5d47ac5
+
+
+
+
+
+
+0
+
+css
+dir
+
+fonts
+dir
+
+i
+dir
+
+img
+dir
+
+js
+dir
+

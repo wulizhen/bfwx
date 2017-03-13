@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/util
+END
+TextUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/util/TextUtil.java
+END
+MessageUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/util/MessageUtil.java
+END
+msgMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/util/msgMode.java
+END
+MoreTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/util/MoreTime.java
+END
+abc.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/util/abc.java
+END
+httpConnect.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/util/httpConnect.java
+END
+MenuUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/util/MenuUtil.java
+END
+StringZFzhuanx.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/util/StringZFzhuanx.java
+END
+MD5Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/util/MD5Util.java
+END
+SignUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/util/SignUtil.java
+END
+ChangeCharset.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/util/ChangeCharset.java
+END
+GUIDKeyGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/util/GUIDKeyGen.java
+END
+XMLUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/util/XMLUtil.java
+END
+MenuMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/util/MenuMain.java
+END
+MDEC.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/util/MDEC.java
+END
+StringUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/util/StringUtil.java
+END
+JsSdkUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/util/JsSdkUtil.java
+END
+MatrixToImageWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/bfwx/!svn/ver/2/trunk/src/com/bf/util/MatrixToImageWriter.java
+END
